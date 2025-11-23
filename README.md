@@ -1,1 +1,1 @@
-This respository contains various kubernetes resource definition files for kubernetes cluster administrators
+This respository contains various kubernetes resource definition files for kubernetes cluster administration
